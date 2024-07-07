@@ -132,3 +132,32 @@
 ### Practice
 - [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
 
+## 11. Web Technologies (Java-focused)
+
+### Learning
+- [Java Servlets and JSP](https://www.udemy.com/course/learn-java-servlets-and-jsp-web-application-in-25-steps/) (Udemy, free course)
+- [Spring Framework Tutorial](https://www.tutorialspoint.com/spring/index.htm)
+
+### Revision
+- [Java EE Cheat Sheet](https://zeroturnaround.com/rebellabs/java-ee-cheat-sheet/)
+
+### Practice
+- [Spring Boot Projects](https://spring.io/guides)
+
+## 12. Java Programming
+
+### Learning
+- [Oracle's Java Tutorials](https://docs.oracle.com/javase/tutorial/)
+- [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) (Coursera, free to audit)
+- [Codecademy Java Course](https://www.codecademy.com/learn/learn-java)
+
+### Revision
+- [Java Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+- [Java 8 Stream Cheat Sheet](https://www.jrebel.com/blog/java-8-stream-cheat-sheet)
+
+### Practice
+- [CodingBat Java](https://codingbat.com/java)
+- [Exercism Java Track](https://exercism.io/tracks/java)
+- [Project Euler](https://projecteuler.net/) (solve problems using Java)
+
+
